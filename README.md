@@ -26,7 +26,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Exchange`.
+Working copy from my Historical Dev folder `VB/Old/Exchange`.
 Company names in project files: CSC. Original extract procedure credited to Brian Feige.
 
 ## License
